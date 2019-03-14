@@ -1,0 +1,32 @@
+html {
+	background-color: #8EB79C;
+}
+h1 {
+	font-family: arial;
+	font-style: normal;
+	color: white;
+	text-align: center;
+}
+
+body {
+	text-align: center;
+	margin-top: 50px;
+}
+
+p,
+button {
+	cursor: pointer;
+	width: 300px;
+	height: 50px;
+	font-size: 15px;
+	font-weight: bold;
+	color: #6A6A6A;
+}
+
+.strike {
+	text-decoration: line-through;
+}
+
+.invisible {
+	display: none;
+}
